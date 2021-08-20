@@ -1,0 +1,1210 @@
+PC: 0
+
+Instrução: 537919498
+
+Sinais de Controle: 
+RegDst:0
+Branch:0
+MemRead:0
+MemToReg:0
+ALUOp0:0
+ALUOp1:0
+MemWrite:0
+ALUSrc:1
+RegWrite:1
+BranchNotEqual:0
+Jump:0
+Jal:0
+MultDiv: 0
+Zero: 0
+JumpRegister: 0
+Memória [0]: 0
+Memória [4]: 0
+Memória [8]: 0
+Memória [12]: 0
+Memória [16]: 0
+Memória [20]: 0
+Memória [24]: 0
+Memória [28]: 0
+Memória [32]: 0
+Memória [36]: 0
+Memória [40]: 0
+Memória [44]: 0
+Memória [48]: 0
+Memória [52]: 0
+Memória [56]: 0
+Memória [60]: 0
+Memória [64]: 0
+Memória [68]: 0
+Memória [72]: 0
+Memória [76]: 0
+Memória [80]: 0
+Memória [84]: 0
+Memória [88]: 0
+Memória [92]: 0
+Memória [96]: 0
+Memória [100]: 0
+Memória [104]: 0
+Memória [108]: 0
+Memória [112]: 0
+Memória [116]: 0
+Memória [120]: 0
+Memória [124]: 0
+Memória [128]: 0
+Memória [132]: 0
+Memória [136]: 0
+Memória [140]: 0
+Memória [144]: 0
+Memória [148]: 0
+Memória [152]: 0
+Memória [156]: 0
+Memória [160]: 0
+Memória [164]: 0
+Memória [168]: 0
+Memória [172]: 0
+Memória [176]: 0
+Memória [180]: 0
+Memória [184]: 0
+Memória [188]: 0
+Memória [192]: 0
+Memória [196]: 0
+Memória [200]: 0
+Memória [204]: 0
+Memória [208]: 0
+Memória [212]: 0
+Memória [216]: 0
+Memória [220]: 0
+Memória [224]: 0
+Memória [228]: 0
+Memória [232]: 0
+Memória [236]: 0
+Memória [240]: 0
+Memória [244]: 0
+Memória [248]: 0
+Memória [252]: 0
+
+Registrador [0]: 0
+Registrador [1]: 0
+Registrador [2]: 0
+Registrador [3]: 0
+Registrador [4]: 0
+Registrador [5]: 0
+Registrador [6]: 0
+Registrador [7]: 0
+Registrador [8]: 0
+Registrador [9]: 0
+Registrador [10]: 0
+Registrador [11]: 0
+Registrador [12]: 0
+Registrador [13]: 0
+Registrador [14]: 0
+Registrador [15]: 0
+Registrador [16]: 10
+Registrador [17]: 0
+Registrador [18]: 0
+Registrador [19]: 0
+Registrador [20]: 0
+Registrador [21]: 0
+Registrador [22]: 0
+Registrador [23]: 0
+Registrador [24]: 0
+Registrador [25]: 0
+Registrador [26]: 0
+Registrador [27]: 0
+Registrador [28]: 0
+Registrador [29]: 0
+Registrador [30]: 0
+Registrador [31]: 0
+Hi: 0
+Lo: 0
+-------------------------------------------------------------------------------------------
+
+PC: 4
+
+Instrução: 537985038
+
+Sinais de Controle: 
+RegDst:0
+Branch:0
+MemRead:0
+MemToReg:0
+ALUOp0:0
+ALUOp1:0
+MemWrite:0
+ALUSrc:1
+RegWrite:1
+BranchNotEqual:0
+Jump:0
+Jal:0
+MultDiv: 0
+Zero: 0
+JumpRegister: 0
+Memória [0]: 0
+Memória [4]: 0
+Memória [8]: 0
+Memória [12]: 0
+Memória [16]: 0
+Memória [20]: 0
+Memória [24]: 0
+Memória [28]: 0
+Memória [32]: 0
+Memória [36]: 0
+Memória [40]: 0
+Memória [44]: 0
+Memória [48]: 0
+Memória [52]: 0
+Memória [56]: 0
+Memória [60]: 0
+Memória [64]: 0
+Memória [68]: 0
+Memória [72]: 0
+Memória [76]: 0
+Memória [80]: 0
+Memória [84]: 0
+Memória [88]: 0
+Memória [92]: 0
+Memória [96]: 0
+Memória [100]: 0
+Memória [104]: 0
+Memória [108]: 0
+Memória [112]: 0
+Memória [116]: 0
+Memória [120]: 0
+Memória [124]: 0
+Memória [128]: 0
+Memória [132]: 0
+Memória [136]: 0
+Memória [140]: 0
+Memória [144]: 0
+Memória [148]: 0
+Memória [152]: 0
+Memória [156]: 0
+Memória [160]: 0
+Memória [164]: 0
+Memória [168]: 0
+Memória [172]: 0
+Memória [176]: 0
+Memória [180]: 0
+Memória [184]: 0
+Memória [188]: 0
+Memória [192]: 0
+Memória [196]: 0
+Memória [200]: 0
+Memória [204]: 0
+Memória [208]: 0
+Memória [212]: 0
+Memória [216]: 0
+Memória [220]: 0
+Memória [224]: 0
+Memória [228]: 0
+Memória [232]: 0
+Memória [236]: 0
+Memória [240]: 0
+Memória [244]: 0
+Memória [248]: 0
+Memória [252]: 0
+
+Registrador [0]: 0
+Registrador [1]: 0
+Registrador [2]: 0
+Registrador [3]: 0
+Registrador [4]: 0
+Registrador [5]: 0
+Registrador [6]: 0
+Registrador [7]: 0
+Registrador [8]: 0
+Registrador [9]: 0
+Registrador [10]: 0
+Registrador [11]: 0
+Registrador [12]: 0
+Registrador [13]: 0
+Registrador [14]: 0
+Registrador [15]: 0
+Registrador [16]: 10
+Registrador [17]: 14
+Registrador [18]: 0
+Registrador [19]: 0
+Registrador [20]: 0
+Registrador [21]: 0
+Registrador [22]: 0
+Registrador [23]: 0
+Registrador [24]: 0
+Registrador [25]: 0
+Registrador [26]: 0
+Registrador [27]: 0
+Registrador [28]: 0
+Registrador [29]: 0
+Registrador [30]: 0
+Registrador [31]: 0
+Hi: 0
+Lo: 0
+-------------------------------------------------------------------------------------------
+
+PC: 8
+
+Instrução: 538050582
+
+Sinais de Controle: 
+RegDst:0
+Branch:0
+MemRead:0
+MemToReg:0
+ALUOp0:0
+ALUOp1:0
+MemWrite:0
+ALUSrc:1
+RegWrite:1
+BranchNotEqual:0
+Jump:0
+Jal:0
+MultDiv: 0
+Zero: 0
+JumpRegister: 0
+Memória [0]: 0
+Memória [4]: 0
+Memória [8]: 0
+Memória [12]: 0
+Memória [16]: 0
+Memória [20]: 0
+Memória [24]: 0
+Memória [28]: 0
+Memória [32]: 0
+Memória [36]: 0
+Memória [40]: 0
+Memória [44]: 0
+Memória [48]: 0
+Memória [52]: 0
+Memória [56]: 0
+Memória [60]: 0
+Memória [64]: 0
+Memória [68]: 0
+Memória [72]: 0
+Memória [76]: 0
+Memória [80]: 0
+Memória [84]: 0
+Memória [88]: 0
+Memória [92]: 0
+Memória [96]: 0
+Memória [100]: 0
+Memória [104]: 0
+Memória [108]: 0
+Memória [112]: 0
+Memória [116]: 0
+Memória [120]: 0
+Memória [124]: 0
+Memória [128]: 0
+Memória [132]: 0
+Memória [136]: 0
+Memória [140]: 0
+Memória [144]: 0
+Memória [148]: 0
+Memória [152]: 0
+Memória [156]: 0
+Memória [160]: 0
+Memória [164]: 0
+Memória [168]: 0
+Memória [172]: 0
+Memória [176]: 0
+Memória [180]: 0
+Memória [184]: 0
+Memória [188]: 0
+Memória [192]: 0
+Memória [196]: 0
+Memória [200]: 0
+Memória [204]: 0
+Memória [208]: 0
+Memória [212]: 0
+Memória [216]: 0
+Memória [220]: 0
+Memória [224]: 0
+Memória [228]: 0
+Memória [232]: 0
+Memória [236]: 0
+Memória [240]: 0
+Memória [244]: 0
+Memória [248]: 0
+Memória [252]: 0
+
+Registrador [0]: 0
+Registrador [1]: 0
+Registrador [2]: 0
+Registrador [3]: 0
+Registrador [4]: 0
+Registrador [5]: 0
+Registrador [6]: 0
+Registrador [7]: 0
+Registrador [8]: 0
+Registrador [9]: 0
+Registrador [10]: 0
+Registrador [11]: 0
+Registrador [12]: 0
+Registrador [13]: 0
+Registrador [14]: 0
+Registrador [15]: 0
+Registrador [16]: 10
+Registrador [17]: 14
+Registrador [18]: 22
+Registrador [19]: 0
+Registrador [20]: 0
+Registrador [21]: 0
+Registrador [22]: 0
+Registrador [23]: 0
+Registrador [24]: 0
+Registrador [25]: 0
+Registrador [26]: 0
+Registrador [27]: 0
+Registrador [28]: 0
+Registrador [29]: 0
+Registrador [30]: 0
+Registrador [31]: 0
+Hi: 0
+Lo: 0
+-------------------------------------------------------------------------------------------
+
+PC: 12
+
+Instrução: 538116101
+
+Sinais de Controle: 
+RegDst:0
+Branch:0
+MemRead:0
+MemToReg:0
+ALUOp0:0
+ALUOp1:0
+MemWrite:0
+ALUSrc:1
+RegWrite:1
+BranchNotEqual:0
+Jump:0
+Jal:0
+MultDiv: 0
+Zero: 0
+JumpRegister: 0
+Memória [0]: 0
+Memória [4]: 0
+Memória [8]: 0
+Memória [12]: 0
+Memória [16]: 0
+Memória [20]: 0
+Memória [24]: 0
+Memória [28]: 0
+Memória [32]: 0
+Memória [36]: 0
+Memória [40]: 0
+Memória [44]: 0
+Memória [48]: 0
+Memória [52]: 0
+Memória [56]: 0
+Memória [60]: 0
+Memória [64]: 0
+Memória [68]: 0
+Memória [72]: 0
+Memória [76]: 0
+Memória [80]: 0
+Memória [84]: 0
+Memória [88]: 0
+Memória [92]: 0
+Memória [96]: 0
+Memória [100]: 0
+Memória [104]: 0
+Memória [108]: 0
+Memória [112]: 0
+Memória [116]: 0
+Memória [120]: 0
+Memória [124]: 0
+Memória [128]: 0
+Memória [132]: 0
+Memória [136]: 0
+Memória [140]: 0
+Memória [144]: 0
+Memória [148]: 0
+Memória [152]: 0
+Memória [156]: 0
+Memória [160]: 0
+Memória [164]: 0
+Memória [168]: 0
+Memória [172]: 0
+Memória [176]: 0
+Memória [180]: 0
+Memória [184]: 0
+Memória [188]: 0
+Memória [192]: 0
+Memória [196]: 0
+Memória [200]: 0
+Memória [204]: 0
+Memória [208]: 0
+Memória [212]: 0
+Memória [216]: 0
+Memória [220]: 0
+Memória [224]: 0
+Memória [228]: 0
+Memória [232]: 0
+Memória [236]: 0
+Memória [240]: 0
+Memória [244]: 0
+Memória [248]: 0
+Memória [252]: 0
+
+Registrador [0]: 0
+Registrador [1]: 0
+Registrador [2]: 0
+Registrador [3]: 0
+Registrador [4]: 0
+Registrador [5]: 0
+Registrador [6]: 0
+Registrador [7]: 0
+Registrador [8]: 0
+Registrador [9]: 0
+Registrador [10]: 0
+Registrador [11]: 0
+Registrador [12]: 0
+Registrador [13]: 0
+Registrador [14]: 0
+Registrador [15]: 0
+Registrador [16]: 10
+Registrador [17]: 14
+Registrador [18]: 22
+Registrador [19]: 5
+Registrador [20]: 0
+Registrador [21]: 0
+Registrador [22]: 0
+Registrador [23]: 0
+Registrador [24]: 0
+Registrador [25]: 0
+Registrador [26]: 0
+Registrador [27]: 0
+Registrador [28]: 0
+Registrador [29]: 0
+Registrador [30]: 0
+Registrador [31]: 0
+Hi: 0
+Lo: 0
+-------------------------------------------------------------------------------------------
+
+PC: 16
+
+Instrução: 538181656
+
+Sinais de Controle: 
+RegDst:0
+Branch:0
+MemRead:0
+MemToReg:0
+ALUOp0:0
+ALUOp1:0
+MemWrite:0
+ALUSrc:1
+RegWrite:1
+BranchNotEqual:0
+Jump:0
+Jal:0
+MultDiv: 0
+Zero: 0
+JumpRegister: 0
+Memória [0]: 0
+Memória [4]: 0
+Memória [8]: 0
+Memória [12]: 0
+Memória [16]: 0
+Memória [20]: 0
+Memória [24]: 0
+Memória [28]: 0
+Memória [32]: 0
+Memória [36]: 0
+Memória [40]: 0
+Memória [44]: 0
+Memória [48]: 0
+Memória [52]: 0
+Memória [56]: 0
+Memória [60]: 0
+Memória [64]: 0
+Memória [68]: 0
+Memória [72]: 0
+Memória [76]: 0
+Memória [80]: 0
+Memória [84]: 0
+Memória [88]: 0
+Memória [92]: 0
+Memória [96]: 0
+Memória [100]: 0
+Memória [104]: 0
+Memória [108]: 0
+Memória [112]: 0
+Memória [116]: 0
+Memória [120]: 0
+Memória [124]: 0
+Memória [128]: 0
+Memória [132]: 0
+Memória [136]: 0
+Memória [140]: 0
+Memória [144]: 0
+Memória [148]: 0
+Memória [152]: 0
+Memória [156]: 0
+Memória [160]: 0
+Memória [164]: 0
+Memória [168]: 0
+Memória [172]: 0
+Memória [176]: 0
+Memória [180]: 0
+Memória [184]: 0
+Memória [188]: 0
+Memória [192]: 0
+Memória [196]: 0
+Memória [200]: 0
+Memória [204]: 0
+Memória [208]: 0
+Memória [212]: 0
+Memória [216]: 0
+Memória [220]: 0
+Memória [224]: 0
+Memória [228]: 0
+Memória [232]: 0
+Memória [236]: 0
+Memória [240]: 0
+Memória [244]: 0
+Memória [248]: 0
+Memória [252]: 0
+
+Registrador [0]: 0
+Registrador [1]: 0
+Registrador [2]: 0
+Registrador [3]: 0
+Registrador [4]: 0
+Registrador [5]: 0
+Registrador [6]: 0
+Registrador [7]: 0
+Registrador [8]: 0
+Registrador [9]: 0
+Registrador [10]: 0
+Registrador [11]: 0
+Registrador [12]: 0
+Registrador [13]: 0
+Registrador [14]: 0
+Registrador [15]: 0
+Registrador [16]: 10
+Registrador [17]: 14
+Registrador [18]: 22
+Registrador [19]: 5
+Registrador [20]: 24
+Registrador [21]: 0
+Registrador [22]: 0
+Registrador [23]: 0
+Registrador [24]: 0
+Registrador [25]: 0
+Registrador [26]: 0
+Registrador [27]: 0
+Registrador [28]: 0
+Registrador [29]: 0
+Registrador [30]: 0
+Registrador [31]: 0
+Hi: 0
+Lo: 0
+-------------------------------------------------------------------------------------------
+
+PC: 20
+
+Instrução: 34684960
+
+Sinais de Controle: 
+RegDst:1
+Branch:0
+MemRead:0
+MemToReg:0
+ALUOp0:0
+ALUOp1:1
+MemWrite:0
+ALUSrc:0
+RegWrite:1
+BranchNotEqual:0
+Jump:0
+Jal:0
+MultDiv: 0
+Zero: 0
+JumpRegister: 0
+Memória [0]: 0
+Memória [4]: 0
+Memória [8]: 0
+Memória [12]: 0
+Memória [16]: 0
+Memória [20]: 0
+Memória [24]: 0
+Memória [28]: 0
+Memória [32]: 0
+Memória [36]: 0
+Memória [40]: 0
+Memória [44]: 0
+Memória [48]: 0
+Memória [52]: 0
+Memória [56]: 0
+Memória [60]: 0
+Memória [64]: 0
+Memória [68]: 0
+Memória [72]: 0
+Memória [76]: 0
+Memória [80]: 0
+Memória [84]: 0
+Memória [88]: 0
+Memória [92]: 0
+Memória [96]: 0
+Memória [100]: 0
+Memória [104]: 0
+Memória [108]: 0
+Memória [112]: 0
+Memória [116]: 0
+Memória [120]: 0
+Memória [124]: 0
+Memória [128]: 0
+Memória [132]: 0
+Memória [136]: 0
+Memória [140]: 0
+Memória [144]: 0
+Memória [148]: 0
+Memória [152]: 0
+Memória [156]: 0
+Memória [160]: 0
+Memória [164]: 0
+Memória [168]: 0
+Memória [172]: 0
+Memória [176]: 0
+Memória [180]: 0
+Memória [184]: 0
+Memória [188]: 0
+Memória [192]: 0
+Memória [196]: 0
+Memória [200]: 0
+Memória [204]: 0
+Memória [208]: 0
+Memória [212]: 0
+Memória [216]: 0
+Memória [220]: 0
+Memória [224]: 0
+Memória [228]: 0
+Memória [232]: 0
+Memória [236]: 0
+Memória [240]: 0
+Memória [244]: 0
+Memória [248]: 0
+Memória [252]: 0
+
+Registrador [0]: 0
+Registrador [1]: 0
+Registrador [2]: 0
+Registrador [3]: 0
+Registrador [4]: 0
+Registrador [5]: 0
+Registrador [6]: 0
+Registrador [7]: 0
+Registrador [8]: 24
+Registrador [9]: 0
+Registrador [10]: 0
+Registrador [11]: 0
+Registrador [12]: 0
+Registrador [13]: 0
+Registrador [14]: 0
+Registrador [15]: 0
+Registrador [16]: 10
+Registrador [17]: 14
+Registrador [18]: 22
+Registrador [19]: 5
+Registrador [20]: 24
+Registrador [21]: 0
+Registrador [22]: 0
+Registrador [23]: 0
+Registrador [24]: 0
+Registrador [25]: 0
+Registrador [26]: 0
+Registrador [27]: 0
+Registrador [28]: 0
+Registrador [29]: 0
+Registrador [30]: 0
+Registrador [31]: 0
+Hi: 0
+Lo: 0
+-------------------------------------------------------------------------------------------
+
+PC: 24
+
+Instrução: 17975330
+
+Sinais de Controle: 
+RegDst:1
+Branch:0
+MemRead:0
+MemToReg:0
+ALUOp0:0
+ALUOp1:1
+MemWrite:0
+ALUSrc:0
+RegWrite:1
+BranchNotEqual:0
+Jump:0
+Jal:0
+MultDiv: 0
+Zero: 0
+JumpRegister: 0
+Memória [0]: 0
+Memória [4]: 0
+Memória [8]: 0
+Memória [12]: 0
+Memória [16]: 0
+Memória [20]: 0
+Memória [24]: 0
+Memória [28]: 0
+Memória [32]: 0
+Memória [36]: 0
+Memória [40]: 0
+Memória [44]: 0
+Memória [48]: 0
+Memória [52]: 0
+Memória [56]: 0
+Memória [60]: 0
+Memória [64]: 0
+Memória [68]: 0
+Memória [72]: 0
+Memória [76]: 0
+Memória [80]: 0
+Memória [84]: 0
+Memória [88]: 0
+Memória [92]: 0
+Memória [96]: 0
+Memória [100]: 0
+Memória [104]: 0
+Memória [108]: 0
+Memória [112]: 0
+Memória [116]: 0
+Memória [120]: 0
+Memória [124]: 0
+Memória [128]: 0
+Memória [132]: 0
+Memória [136]: 0
+Memória [140]: 0
+Memória [144]: 0
+Memória [148]: 0
+Memória [152]: 0
+Memória [156]: 0
+Memória [160]: 0
+Memória [164]: 0
+Memória [168]: 0
+Memória [172]: 0
+Memória [176]: 0
+Memória [180]: 0
+Memória [184]: 0
+Memória [188]: 0
+Memória [192]: 0
+Memória [196]: 0
+Memória [200]: 0
+Memória [204]: 0
+Memória [208]: 0
+Memória [212]: 0
+Memória [216]: 0
+Memória [220]: 0
+Memória [224]: 0
+Memória [228]: 0
+Memória [232]: 0
+Memória [236]: 0
+Memória [240]: 0
+Memória [244]: 0
+Memória [248]: 0
+Memória [252]: 0
+
+Registrador [0]: 0
+Registrador [1]: 0
+Registrador [2]: 0
+Registrador [3]: 0
+Registrador [4]: 0
+Registrador [5]: 0
+Registrador [6]: 0
+Registrador [7]: 0
+Registrador [8]: 24
+Registrador [9]: 2
+Registrador [10]: 0
+Registrador [11]: 0
+Registrador [12]: 0
+Registrador [13]: 0
+Registrador [14]: 0
+Registrador [15]: 0
+Registrador [16]: 10
+Registrador [17]: 14
+Registrador [18]: 22
+Registrador [19]: 5
+Registrador [20]: 24
+Registrador [21]: 0
+Registrador [22]: 0
+Registrador [23]: 0
+Registrador [24]: 0
+Registrador [25]: 0
+Registrador [26]: 0
+Registrador [27]: 0
+Registrador [28]: 0
+Registrador [29]: 0
+Registrador [30]: 0
+Registrador [31]: 0
+Hi: 0
+Lo: 0
+-------------------------------------------------------------------------------------------
+
+PC: 28
+
+Instrução: 2926116864
+
+Sinais de Controle: 
+RegDst:1
+Branch:0
+MemRead:0
+MemToReg:0
+ALUOp0:0
+ALUOp1:0
+MemWrite:1
+ALUSrc:1
+RegWrite:0
+BranchNotEqual:0
+Jump:0
+Jal:0
+MultDiv: 0
+Zero: 0
+JumpRegister: 0
+Memória [0]: 0
+Memória [4]: 0
+Memória [8]: 0
+Memória [12]: 0
+Memória [16]: 0
+Memória [20]: 0
+Memória [24]: 0
+Memória [28]: 0
+Memória [32]: 0
+Memória [36]: 0
+Memória [40]: 0
+Memória [44]: 0
+Memória [48]: 0
+Memória [52]: 0
+Memória [56]: 0
+Memória [60]: 0
+Memória [64]: 0
+Memória [68]: 0
+Memória [72]: 0
+Memória [76]: 0
+Memória [80]: 0
+Memória [84]: 0
+Memória [88]: 0
+Memória [92]: 0
+Memória [96]: 0
+Memória [100]: 0
+Memória [104]: 0
+Memória [108]: 0
+Memória [112]: 0
+Memória [116]: 0
+Memória [120]: 0
+Memória [124]: 0
+Memória [128]: 0
+Memória [132]: 0
+Memória [136]: 0
+Memória [140]: 0
+Memória [144]: 0
+Memória [148]: 0
+Memória [152]: 0
+Memória [156]: 0
+Memória [160]: 0
+Memória [164]: 0
+Memória [168]: 0
+Memória [172]: 0
+Memória [176]: 0
+Memória [180]: 0
+Memória [184]: 0
+Memória [188]: 0
+Memória [192]: 0
+Memória [196]: 0
+Memória [200]: 0
+Memória [204]: 0
+Memória [208]: 0
+Memória [212]: 0
+Memória [216]: 0
+Memória [220]: 0
+Memória [224]: 0
+Memória [228]: 0
+Memória [232]: 0
+Memória [236]: 0
+Memória [240]: 0
+Memória [244]: 0
+Memória [248]: 0
+Memória [252]: 0
+
+Registrador [0]: 0
+Registrador [1]: 0
+Registrador [2]: 0
+Registrador [3]: 0
+Registrador [4]: 0
+Registrador [5]: 0
+Registrador [6]: 0
+Registrador [7]: 0
+Registrador [8]: 24
+Registrador [9]: 2
+Registrador [10]: 0
+Registrador [11]: 0
+Registrador [12]: 0
+Registrador [13]: 0
+Registrador [14]: 0
+Registrador [15]: 0
+Registrador [16]: 10
+Registrador [17]: 14
+Registrador [18]: 22
+Registrador [19]: 5
+Registrador [20]: 24
+Registrador [21]: 0
+Registrador [22]: 0
+Registrador [23]: 0
+Registrador [24]: 0
+Registrador [25]: 0
+Registrador [26]: 0
+Registrador [27]: 0
+Registrador [28]: 0
+Registrador [29]: 0
+Registrador [30]: 0
+Registrador [31]: 0
+Hi: 0
+Lo: 0
+-------------------------------------------------------------------------------------------
+
+PC: 32
+
+Instrução: 2389442560
+
+Sinais de Controle: 
+RegDst:0
+Branch:0
+MemRead:1
+MemToReg:1
+ALUOp0:0
+ALUOp1:0
+MemWrite:0
+ALUSrc:1
+RegWrite:1
+BranchNotEqual:0
+Jump:0
+Jal:0
+MultDiv: 0
+Zero: 0
+JumpRegister: 0
+Memória [0]: 0
+Memória [4]: 0
+Memória [8]: 0
+Memória [12]: 0
+Memória [16]: 0
+Memória [20]: 0
+Memória [24]: 0
+Memória [28]: 0
+Memória [32]: 0
+Memória [36]: 0
+Memória [40]: 0
+Memória [44]: 0
+Memória [48]: 0
+Memória [52]: 0
+Memória [56]: 0
+Memória [60]: 0
+Memória [64]: 0
+Memória [68]: 0
+Memória [72]: 0
+Memória [76]: 0
+Memória [80]: 0
+Memória [84]: 0
+Memória [88]: 0
+Memória [92]: 0
+Memória [96]: 0
+Memória [100]: 0
+Memória [104]: 0
+Memória [108]: 0
+Memória [112]: 0
+Memória [116]: 0
+Memória [120]: 0
+Memória [124]: 0
+Memória [128]: 0
+Memória [132]: 0
+Memória [136]: 0
+Memória [140]: 0
+Memória [144]: 0
+Memória [148]: 0
+Memória [152]: 0
+Memória [156]: 0
+Memória [160]: 0
+Memória [164]: 0
+Memória [168]: 0
+Memória [172]: 0
+Memória [176]: 0
+Memória [180]: 0
+Memória [184]: 0
+Memória [188]: 0
+Memória [192]: 0
+Memória [196]: 0
+Memória [200]: 0
+Memória [204]: 0
+Memória [208]: 0
+Memória [212]: 0
+Memória [216]: 0
+Memória [220]: 0
+Memória [224]: 0
+Memória [228]: 0
+Memória [232]: 0
+Memória [236]: 0
+Memória [240]: 0
+Memória [244]: 0
+Memória [248]: 0
+Memória [252]: 0
+
+Registrador [0]: 0
+Registrador [1]: 0
+Registrador [2]: 0
+Registrador [3]: 0
+Registrador [4]: 0
+Registrador [5]: 0
+Registrador [6]: 0
+Registrador [7]: 0
+Registrador [8]: 24
+Registrador [9]: 2
+Registrador [10]: 0
+Registrador [11]: 0
+Registrador [12]: 2
+Registrador [13]: 0
+Registrador [14]: 0
+Registrador [15]: 0
+Registrador [16]: 10
+Registrador [17]: 14
+Registrador [18]: 22
+Registrador [19]: 5
+Registrador [20]: 24
+Registrador [21]: 0
+Registrador [22]: 0
+Registrador [23]: 0
+Registrador [24]: 0
+Registrador [25]: 0
+Registrador [26]: 0
+Registrador [27]: 0
+Registrador [28]: 0
+Registrador [29]: 0
+Registrador [30]: 0
+Registrador [31]: 0
+Hi: 0
+Lo: 0
+-------------------------------------------------------------------------------------------
+
+PC: 36
+
+Instrução: 26495008
+
+Sinais de Controle: 
+RegDst:1
+Branch:0
+MemRead:0
+MemToReg:0
+ALUOp0:0
+ALUOp1:1
+MemWrite:0
+ALUSrc:0
+RegWrite:1
+BranchNotEqual:0
+Jump:0
+Jal:0
+MultDiv: 0
+Zero: 0
+JumpRegister: 0
+Memória [0]: 0
+Memória [4]: 0
+Memória [8]: 0
+Memória [12]: 0
+Memória [16]: 0
+Memória [20]: 0
+Memória [24]: 0
+Memória [28]: 0
+Memória [32]: 0
+Memória [36]: 0
+Memória [40]: 0
+Memória [44]: 0
+Memória [48]: 0
+Memória [52]: 0
+Memória [56]: 0
+Memória [60]: 0
+Memória [64]: 0
+Memória [68]: 0
+Memória [72]: 0
+Memória [76]: 0
+Memória [80]: 0
+Memória [84]: 0
+Memória [88]: 0
+Memória [92]: 0
+Memória [96]: 0
+Memória [100]: 0
+Memória [104]: 0
+Memória [108]: 0
+Memória [112]: 0
+Memória [116]: 0
+Memória [120]: 0
+Memória [124]: 0
+Memória [128]: 0
+Memória [132]: 0
+Memória [136]: 0
+Memória [140]: 0
+Memória [144]: 0
+Memória [148]: 0
+Memória [152]: 0
+Memória [156]: 0
+Memória [160]: 0
+Memória [164]: 0
+Memória [168]: 0
+Memória [172]: 0
+Memória [176]: 0
+Memória [180]: 0
+Memória [184]: 0
+Memória [188]: 0
+Memória [192]: 0
+Memória [196]: 0
+Memória [200]: 0
+Memória [204]: 0
+Memória [208]: 0
+Memória [212]: 0
+Memória [216]: 0
+Memória [220]: 0
+Memória [224]: 0
+Memória [228]: 0
+Memória [232]: 0
+Memória [236]: 0
+Memória [240]: 0
+Memória [244]: 0
+Memória [248]: 0
+Memória [252]: 0
+
+Registrador [0]: 0
+Registrador [1]: 0
+Registrador [2]: 0
+Registrador [3]: 0
+Registrador [4]: 0
+Registrador [5]: 0
+Registrador [6]: 0
+Registrador [7]: 0
+Registrador [8]: 24
+Registrador [9]: 26
+Registrador [10]: 0
+Registrador [11]: 0
+Registrador [12]: 2
+Registrador [13]: 0
+Registrador [14]: 0
+Registrador [15]: 0
+Registrador [16]: 10
+Registrador [17]: 14
+Registrador [18]: 22
+Registrador [19]: 5
+Registrador [20]: 24
+Registrador [21]: 0
+Registrador [22]: 0
+Registrador [23]: 0
+Registrador [24]: 0
+Registrador [25]: 0
+Registrador [26]: 0
+Registrador [27]: 0
+Registrador [28]: 0
+Registrador [29]: 0
+Registrador [30]: 0
+Registrador [31]: 0
+Hi: 0
+Lo: 0
+-------------------------------------------------------------------------------------------
+
