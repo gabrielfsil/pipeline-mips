@@ -372,7 +372,7 @@ void CPU::execute()
             readDataDM = this->dataMemory[address];
         }
 
-        for (int i = 0; i < 256; i = i + 4)
+        for (int i = 0; i < 256; i++)
         {
             exit << "Memória [" << i << "]: " << this->dataMemory[i] << endl;
         }
